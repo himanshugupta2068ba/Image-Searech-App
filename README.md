@@ -29,18 +29,23 @@ internassignment/
 │   └── index.js
 └── package.json
 ```
+<img width="1909" height="1060" alt="Screenshot 2025-11-02 183943" src="https://github.com/user-attachments/assets/2f7999d3-da90-4667-bdc5-37165f5db0f0" />
+<img width="1893" height="1020" alt="Screenshot 2025-11-02 183856" src="https://github.com/user-attachments/assets/08dc46ad-205d-4a1e-bdad-6995cb223a02" />
+<img width="411" height="623" alt="Screenshot 2025-11-02 183919" src="https://github.com/user-attachments/assets/9cbcf692-6cce-4aee-b865-65394d47b3f8" />
 
 
 
+As git hub not allowed to push seceret key
 
-
-
+<img width="724" height="457" alt="Screenshot 2025-11-02 185100" src="https://github.com/user-attachments/assets/81d76cd3-23ad-435d-a472-77c556c69de7" />
 
 ### Prerequisites
 
 - Node.js (v14 or higher)
 - MongoDB (local or MongoDB Atlas)
 - OAuth credentials for Google, Facebook, and GitHub
+
+
 - Unsplash API access key
 
 ### 1. Install Dependencies
